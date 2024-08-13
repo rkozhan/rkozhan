@@ -30,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70px" />
 </div>
  
-
+<!--
 ## Statistic 📊
 
 <div align="center">
@@ -42,6 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkozhan&layout=compact&bg_color=0d0c15&title_color=81fe03&text_color=fefefe&border_radius=5)](https://github.com/rkozhan/github-readme-stats)
 
 </div>
+-->
 
 ## Contacts 📲
 <div align="center">
