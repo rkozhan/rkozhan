@@ -2,7 +2,11 @@
 
 
 ## About me 
-### I'm an enthusiastic and detail-oriented Software developer. Focused on Optimization and Efficiency. Based in Austria 🇦🇹
+### I'm an enthusiastic and detail-oriented Software developer. Focused on Optimization and Efficiency. Passionate about backend development. 
+
+### In my free time, I explore the mountains with a camera and a big backpack.
+
+### Based in Austria 🇦🇹.
 
 ![](https://komarev.com/ghpvc/?username=rkozhan&style=flat&color=81fe03&abbreviated=true)
 
